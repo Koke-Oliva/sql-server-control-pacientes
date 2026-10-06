@@ -1,0 +1,14 @@
+# SQL Server / database artifacts
+*.bak
+*.bacpac
+*.mdf
+*.ndf
+*.ldf
+
+# IDE / OS
+.vscode/
+.vs/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
