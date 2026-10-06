@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1202" height="714" viewBox="0 0 1202 714">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="601" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">Query 8 — View_Cita_Completa</text>
+  <text x="601" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4b5563">Muestra representativa: primeras 12 de 81 filas de la vista</text><rect x="36" y="92" width="80" height="46" fill="#f3f4f6" stroke="#9ca3af"/>
+    <text x="46" y="121" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">ID</text><rect x="116" y="92" width="260" height="46" fill="#f3f4f6" stroke="#9ca3af"/>
+    <text x="126" y="121" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">Fecha cita</text><rect x="376" y="92" width="270" height="46" fill="#f3f4f6" stroke="#9ca3af"/>
+    <text x="386" y="121" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">Odontólogo</text><rect x="646" y="92" width="250" height="46" fill="#f3f4f6" stroke="#9ca3af"/>
+    <text x="656" y="121" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">Especialidad</text><rect x="896" y="92" width="270" height="46" fill="#f3f4f6" stroke="#9ca3af"/>
+    <text x="906" y="121" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">Paciente</text><rect x="36" y="138" width="80" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="46" y="165" font-family="Arial, sans-serif" font-size="14" fill="#111827">1</text><rect x="116" y="138" width="260" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="126" y="165" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 10:00</text><rect x="376" y="138" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="386" y="165" font-family="Arial, sans-serif" font-size="14" fill="#111827">Ana Alvarez</text><rect x="646" y="138" width="250" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="656" y="165" font-family="Arial, sans-serif" font-size="14" fill="#111827">Odontología</text><rect x="896" y="138" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="906" y="165" font-family="Arial, sans-serif" font-size="14" fill="#111827">Raul Trujillo</text><rect x="36" y="180" width="80" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="46" y="207" font-family="Arial, sans-serif" font-size="14" fill="#111827">2</text><rect x="116" y="180" width="260" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="126" y="207" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 10:30</text><rect x="376" y="180" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="386" y="207" font-family="Arial, sans-serif" font-size="14" fill="#111827">Gustavo Encina</text><rect x="646" y="180" width="250" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="656" y="207" font-family="Arial, sans-serif" font-size="14" fill="#111827">Periodoncia</text><rect x="896" y="180" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="906" y="207" font-family="Arial, sans-serif" font-size="14" fill="#111827">Pamela Castro</text><rect x="36" y="222" width="80" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="46" y="249" font-family="Arial, sans-serif" font-size="14" fill="#111827">3</text><rect x="116" y="222" width="260" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="126" y="249" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 11:00</text><rect x="376" y="222" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="386" y="249" font-family="Arial, sans-serif" font-size="14" fill="#111827">Gustavo Encina</text><rect x="646" y="222" width="250" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="656" y="249" font-family="Arial, sans-serif" font-size="14" fill="#111827">Periodoncia</text><rect x="896" y="222" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="906" y="249" font-family="Arial, sans-serif" font-size="14" fill="#111827">Matías Santander</text><rect x="36" y="264" width="80" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="46" y="291" font-family="Arial, sans-serif" font-size="14" fill="#111827">4</text><rect x="116" y="264" width="260" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="126" y="291" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 11:30</text><rect x="376" y="264" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="386" y="291" font-family="Arial, sans-serif" font-size="14" fill="#111827">Irene Gallardo</text><rect x="646" y="264" width="250" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="656" y="291" font-family="Arial, sans-serif" font-size="14" fill="#111827">Odontología</text><rect x="896" y="264" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="906" y="291" font-family="Arial, sans-serif" font-size="14" fill="#111827">Clara Barraza</text><rect x="36" y="306" width="80" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="46" y="333" font-family="Arial, sans-serif" font-size="14" fill="#111827">5</text><rect x="116" y="306" width="260" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="126" y="333" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 12:00</text><rect x="376" y="306" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="386" y="333" font-family="Arial, sans-serif" font-size="14" fill="#111827">Mario Poblete</text><rect x="646" y="306" width="250" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="656" y="333" font-family="Arial, sans-serif" font-size="14" fill="#111827">Odontología</text><rect x="896" y="306" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="906" y="333" font-family="Arial, sans-serif" font-size="14" fill="#111827">Marcela Perez</text><rect x="36" y="348" width="80" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="46" y="375" font-family="Arial, sans-serif" font-size="14" fill="#111827">6</text><rect x="116" y="348" width="260" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="126" y="375" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 12:30</text><rect x="376" y="348" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="386" y="375" font-family="Arial, sans-serif" font-size="14" fill="#111827">Nancy Rojas</text><rect x="646" y="348" width="250" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="656" y="375" font-family="Arial, sans-serif" font-size="14" fill="#111827">Endodoncia</text><rect x="896" y="348" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="906" y="375" font-family="Arial, sans-serif" font-size="14" fill="#111827">Julio Gallardo</text><rect x="36" y="390" width="80" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="46" y="417" font-family="Arial, sans-serif" font-size="14" fill="#111827">7</text><rect x="116" y="390" width="260" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="126" y="417" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 13:00</text><rect x="376" y="390" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="386" y="417" font-family="Arial, sans-serif" font-size="14" fill="#111827">Gustavo Encina</text><rect x="646" y="390" width="250" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="656" y="417" font-family="Arial, sans-serif" font-size="14" fill="#111827">Periodoncia</text><rect x="896" y="390" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="906" y="417" font-family="Arial, sans-serif" font-size="14" fill="#111827">Rolando Rocco</text><rect x="36" y="432" width="80" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="46" y="459" font-family="Arial, sans-serif" font-size="14" fill="#111827">8</text><rect x="116" y="432" width="260" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="126" y="459" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 13:30</text><rect x="376" y="432" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="386" y="459" font-family="Arial, sans-serif" font-size="14" fill="#111827">Nelson Soto</text><rect x="646" y="432" width="250" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="656" y="459" font-family="Arial, sans-serif" font-size="14" fill="#111827">Implantología</text><rect x="896" y="432" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="906" y="459" font-family="Arial, sans-serif" font-size="14" fill="#111827">Francisco Alvarez</text><rect x="36" y="474" width="80" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="46" y="501" font-family="Arial, sans-serif" font-size="14" fill="#111827">9</text><rect x="116" y="474" width="260" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="126" y="501" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 14:00</text><rect x="376" y="474" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="386" y="501" font-family="Arial, sans-serif" font-size="14" fill="#111827">Nelson Soto</text><rect x="646" y="474" width="250" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="656" y="501" font-family="Arial, sans-serif" font-size="14" fill="#111827">Implantología</text><rect x="896" y="474" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="906" y="501" font-family="Arial, sans-serif" font-size="14" fill="#111827">Karen Salinas</text><rect x="36" y="516" width="80" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="46" y="543" font-family="Arial, sans-serif" font-size="14" fill="#111827">10</text><rect x="116" y="516" width="260" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="126" y="543" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 14:30</text><rect x="376" y="516" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="386" y="543" font-family="Arial, sans-serif" font-size="14" fill="#111827">Irene Gallardo</text><rect x="646" y="516" width="250" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="656" y="543" font-family="Arial, sans-serif" font-size="14" fill="#111827">Odontología</text><rect x="896" y="516" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="906" y="543" font-family="Arial, sans-serif" font-size="14" fill="#111827">Estela Toledo</text><rect x="36" y="558" width="80" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="46" y="585" font-family="Arial, sans-serif" font-size="14" fill="#111827">11</text><rect x="116" y="558" width="260" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="126" y="585" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 15:00</text><rect x="376" y="558" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="386" y="585" font-family="Arial, sans-serif" font-size="14" fill="#111827">Mario Poblete</text><rect x="646" y="558" width="250" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="656" y="585" font-family="Arial, sans-serif" font-size="14" fill="#111827">Odontología</text><rect x="896" y="558" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="906" y="585" font-family="Arial, sans-serif" font-size="14" fill="#111827">Jorge Berríos</text><rect x="36" y="600" width="80" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="46" y="627" font-family="Arial, sans-serif" font-size="14" fill="#111827">12</text><rect x="116" y="600" width="260" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="126" y="627" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 15:30</text><rect x="376" y="600" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="386" y="627" font-family="Arial, sans-serif" font-size="14" fill="#111827">Mario Poblete</text><rect x="646" y="600" width="250" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="656" y="627" font-family="Arial, sans-serif" font-size="14" fill="#111827">Odontología</text><rect x="896" y="600" width="270" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="906" y="627" font-family="Arial, sans-serif" font-size="14" fill="#111827">Juan Piña</text></svg>
