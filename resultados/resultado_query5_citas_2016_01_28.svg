@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="840" viewBox="0 0 1100 840">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="550" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">Query 5 — Citas del 28-01-2016</text>
+  <text x="550" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#4b5563">15 filas · múltiples JOIN + filtro por fecha/hora</text><rect x="70" y="92" width="330" height="46" fill="#f3f4f6" stroke="#9ca3af"/>
+    <text x="80" y="121" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">Paciente</text><rect x="400" y="92" width="300" height="46" fill="#f3f4f6" stroke="#9ca3af"/>
+    <text x="410" y="121" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">Fecha cita</text><rect x="700" y="92" width="330" height="46" fill="#f3f4f6" stroke="#9ca3af"/>
+    <text x="710" y="121" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">Odontólogo</text><rect x="70" y="138" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="80" y="165" font-family="Arial, sans-serif" font-size="14" fill="#111827">Raul Trujillo</text><rect x="400" y="138" width="300" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="410" y="165" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 10:00</text><rect x="700" y="138" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="710" y="165" font-family="Arial, sans-serif" font-size="14" fill="#111827">Ana Alvarez</text><rect x="70" y="180" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="80" y="207" font-family="Arial, sans-serif" font-size="14" fill="#111827">Pamela Castro</text><rect x="400" y="180" width="300" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="410" y="207" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 10:30</text><rect x="700" y="180" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="710" y="207" font-family="Arial, sans-serif" font-size="14" fill="#111827">Gustavo Encina</text><rect x="70" y="222" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="80" y="249" font-family="Arial, sans-serif" font-size="14" fill="#111827">Matías Santander</text><rect x="400" y="222" width="300" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="410" y="249" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 11:00</text><rect x="700" y="222" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="710" y="249" font-family="Arial, sans-serif" font-size="14" fill="#111827">Gustavo Encina</text><rect x="70" y="264" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="80" y="291" font-family="Arial, sans-serif" font-size="14" fill="#111827">Clara Barraza</text><rect x="400" y="264" width="300" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="410" y="291" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 11:30</text><rect x="700" y="264" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="710" y="291" font-family="Arial, sans-serif" font-size="14" fill="#111827">Irene Gallardo</text><rect x="70" y="306" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="80" y="333" font-family="Arial, sans-serif" font-size="14" fill="#111827">Marcela Perez</text><rect x="400" y="306" width="300" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="410" y="333" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 12:00</text><rect x="700" y="306" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="710" y="333" font-family="Arial, sans-serif" font-size="14" fill="#111827">Mario Poblete</text><rect x="70" y="348" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="80" y="375" font-family="Arial, sans-serif" font-size="14" fill="#111827">Julio Gallardo</text><rect x="400" y="348" width="300" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="410" y="375" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 12:30</text><rect x="700" y="348" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="710" y="375" font-family="Arial, sans-serif" font-size="14" fill="#111827">Nancy Rojas</text><rect x="70" y="390" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="80" y="417" font-family="Arial, sans-serif" font-size="14" fill="#111827">Rolando Rocco</text><rect x="400" y="390" width="300" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="410" y="417" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 13:00</text><rect x="700" y="390" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="710" y="417" font-family="Arial, sans-serif" font-size="14" fill="#111827">Gustavo Encina</text><rect x="70" y="432" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="80" y="459" font-family="Arial, sans-serif" font-size="14" fill="#111827">Francisco Alvarez</text><rect x="400" y="432" width="300" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="410" y="459" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 13:30</text><rect x="700" y="432" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="710" y="459" font-family="Arial, sans-serif" font-size="14" fill="#111827">Nelson Soto</text><rect x="70" y="474" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="80" y="501" font-family="Arial, sans-serif" font-size="14" fill="#111827">Karen Salinas</text><rect x="400" y="474" width="300" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="410" y="501" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 14:00</text><rect x="700" y="474" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="710" y="501" font-family="Arial, sans-serif" font-size="14" fill="#111827">Nelson Soto</text><rect x="70" y="516" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="80" y="543" font-family="Arial, sans-serif" font-size="14" fill="#111827">Estela Toledo</text><rect x="400" y="516" width="300" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="410" y="543" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 14:30</text><rect x="700" y="516" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="710" y="543" font-family="Arial, sans-serif" font-size="14" fill="#111827">Irene Gallardo</text><rect x="70" y="558" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="80" y="585" font-family="Arial, sans-serif" font-size="14" fill="#111827">Jorge Berríos</text><rect x="400" y="558" width="300" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="410" y="585" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 15:00</text><rect x="700" y="558" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="710" y="585" font-family="Arial, sans-serif" font-size="14" fill="#111827">Mario Poblete</text><rect x="70" y="600" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="80" y="627" font-family="Arial, sans-serif" font-size="14" fill="#111827">Juan Piña</text><rect x="400" y="600" width="300" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="410" y="627" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 15:30</text><rect x="700" y="600" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="710" y="627" font-family="Arial, sans-serif" font-size="14" fill="#111827">Mario Poblete</text><rect x="70" y="642" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="80" y="669" font-family="Arial, sans-serif" font-size="14" fill="#111827">Juan Riquelme</text><rect x="400" y="642" width="300" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="410" y="669" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 16:00</text><rect x="700" y="642" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="710" y="669" font-family="Arial, sans-serif" font-size="14" fill="#111827">Nelson Soto</text><rect x="70" y="684" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="80" y="711" font-family="Arial, sans-serif" font-size="14" fill="#111827">Diego Troncoso</text><rect x="400" y="684" width="300" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="410" y="711" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 16:30</text><rect x="700" y="684" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="710" y="711" font-family="Arial, sans-serif" font-size="14" fill="#111827">Gustavo Encina</text><rect x="70" y="726" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="80" y="753" font-family="Arial, sans-serif" font-size="14" fill="#111827">Jorge Berríos</text><rect x="400" y="726" width="300" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="410" y="753" font-family="Arial, sans-serif" font-size="14" fill="#111827">2016-01-28 17:00</text><rect x="700" y="726" width="330" height="42" fill="#ffffff" stroke="#d1d5db"/>
+      <text x="710" y="753" font-family="Arial, sans-serif" font-size="14" fill="#111827">Mariela Pujado</text></svg>
