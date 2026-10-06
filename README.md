@@ -108,6 +108,11 @@ erDiagram
 ├── original/
 │   ├── Jorge_Auad_Oliva_Prueba1.sql
 │   └── Tablas.sql
+├── resultados/
+│   ├── README.md
+│   ├── resultado_query4_odontologos_10_o_mas_atenciones.svg
+│   ├── resultado_query5_citas_2016_01_28.svg
+│   └── resultado_query8_view_cita_completa.svg
 └── docs/
     ├── assignment_scope.md
     ├── data_dictionary.md
@@ -148,6 +153,25 @@ Con los datos incluidos en `Tablas.sql`:
 | 8 | 81 filas en `View_Cita_Completa` |
 
 Detalle: [docs/query_results.md](docs/query_results.md).
+
+## Evidencia visual representativa
+
+Se conservan **tres resultados representativos** para facilitar una revisión rápida del proyecto:
+
+<table>
+  <tr>
+    <td width="33%"><strong>Query 4</strong><br><code>GROUP BY</code> + <code>HAVING</code></td>
+    <td width="33%"><strong>Query 5</strong><br>múltiples <code>JOIN</code> + fecha/hora</td>
+    <td width="33%"><strong>Query 8</strong><br><code>CREATE VIEW</code></td>
+  </tr>
+  <tr>
+    <td><img src="resultados/resultado_query4_odontologos_10_o_mas_atenciones.svg" alt="Resultado Query 4"></td>
+    <td><img src="resultados/resultado_query5_citas_2016_01_28.svg" alt="Resultado Query 5"></td>
+    <td><img src="resultados/resultado_query8_view_cita_completa.svg" alt="Resultado Query 8"></td>
+  </tr>
+</table>
+
+Estas imágenes representan resultados reproducibles obtenidos a partir de los datos ficticios del ejercicio; **no son capturas de pantalla de SSMS**. La galería y el detalle de cada evidencia están en [resultados/README.md](resultados/README.md).
 
 ## Revisión técnica de la entrega original
 
