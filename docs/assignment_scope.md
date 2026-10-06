@@ -29,7 +29,7 @@ La pauta indica que el trabajo debía realizarse utilizando la base de datos `Co
 
 La pauta establece que las consultas debían resolverse sobre `Control_Pacientes`. El script de preparación de tablas y datos se trata como **archivo de entorno**, no como evidencia principal del trabajo evaluado.
 
-La entrega original del estudiante se conserva por separado de la versión revisada de portafolio.
+La entrega original se conserva por separado de la versión revisada de portafolio.
 
 ## Criterio de portafolio
 
